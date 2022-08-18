@@ -1,0 +1,19 @@
+---
+compiled_package_info:
+  package_name: syntax-basics
+  address_alias_instantiation:
+    std: "00000000000000000000000000000001"
+  source_digest: 01B5719B7711258ED0029D31342BBF405B891ED310BAFE4596C7F86CB2C82A3A
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+dependencies:
+  - MoveNursery
+  - MoveStdlib
